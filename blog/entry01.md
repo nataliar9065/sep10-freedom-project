@@ -17,7 +17,7 @@ while designing and having ideas in mind.
  ## Skills
 
  ####
- A skill that I've learned throughout this project is **managing time, how to google, and researching** learning how to google and find reliable websites is important in order to have correct research. Managing time is also a big skill because you need to proceed everything ittle by little and not all in a big rush.
+ A skill that I've learned throughout this project is **managing time, how to google, and researching** learning how to google and find reliable websites is important in order to have correct research. Managing time is also a big skill to know because you need to proceed everything ittle by little and not all in a big rush.
 
 [Next](entry02.md)
 
