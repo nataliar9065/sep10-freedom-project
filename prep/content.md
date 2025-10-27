@@ -6,6 +6,13 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
+
+##### Software
+* Tech
+  * Detail
+  * [image text](image URL)
+
+##### Hardware
 * Tech
   * Detail
   * [image text](image URL)
