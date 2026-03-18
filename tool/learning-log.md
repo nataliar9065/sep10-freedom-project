@@ -4,11 +4,11 @@
 
 ---
 
-### X/X/XX:
+### 3/17/26:
 * i will be using Aframe
 
-### X/X/XX:
-* Text
+### 3/18/26:
+* code:
 
 
 <!-- 
