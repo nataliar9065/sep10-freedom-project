@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: AFrama
+## Tool: AFrame
 
 ---
 
