@@ -7,8 +7,9 @@
 ### 3/17/26:
 * i will be using Aframe
 
-### 3/18/26:
-* code:
+### 3/23/26:
+* ive learned that with this tool i can adjust the movements
+* 
 
 
 <!-- 
