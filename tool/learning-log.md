@@ -9,7 +9,7 @@
 
 ### 3/23/26:
 * ive learned that with this tool i can adjust the movements
-* 
+* im also trying to understand the shapes and how it works
 
 
 <!-- 
