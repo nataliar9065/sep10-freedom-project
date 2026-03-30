@@ -11,7 +11,7 @@
 * ive learned that with this tool i can adjust the movements
 * im also trying to understand the shapes and how it works
 
- ### 3/30?26
+ ### 3/30/26
   * i have seen more tutorials on the basic movemnts to adjust
   * 
 
