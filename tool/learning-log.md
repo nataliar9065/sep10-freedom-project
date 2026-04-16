@@ -17,7 +17,7 @@
 
  ### 4/16/26
 
-*[https://aframe.io/docs/1.7.0/introduction/]
+* [https://aframe.io/docs/1.7.0/introduction/]
   <!-- this website helps me understand the concepts of each movement i would want to do or make.
  -->
 *
