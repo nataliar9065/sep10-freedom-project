@@ -1,8 +1,8 @@
 # Content
-Topic: **Architecture**
+Topic: ** Designing Architecture**
 
 ## Overview/Introduction/Context
-* Text
+* Designing architecture whether it is for physical  building or digital systems is the strategic process of planning , brainstorming, and organizing components in order to meet functional, aesthetic , and technical requirements. 
 * Text
 
 ## Part A: existing technology
